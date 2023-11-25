@@ -1,3 +1,3 @@
-module github.com/Umesh-Kumar-01/autograder
+module github.com/Gaju1311/AutoGrader
 
 go 1.18
