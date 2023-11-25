@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/Umesh-Kumar-01/autograder/logs"
+	"github.com/Gaju1311/AutoGrader/logs"
 	"os"
 	"os/exec"
 	"path/filepath"
